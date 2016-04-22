@@ -1,0 +1,4 @@
+Roger García Hernández:
+Se logro hacer el programa que detectara los nicknames y se logro que los detectara.  Algunas complicaciones que fueron   a la hora de la elaboracion del codigo fueron que habia  algunas funciones desconocidas pero  despues de invetigar ayudaron con el para que el programa funcionara optimamente.  Sin embargo al final tuvo algunos errores a la hora de imprimir los nick names.
+Alejandro Silva Guzmán:
+El conocimiento de manejo de cadenas fue escencial en el programa, al no conocer muchas de estas funciones se nos complicó un poco el investigarlas y encontrar la adecuada al problema. Logramos que identificara el primer nickname pero a partir del segundo nos marca una excepción que por falta de tiempo no logramos detectar. Aunque el objetivo de la práctica fue logrado: crear el programa por nuestra cuenta y conocer las distintas funciones para cadenas. 
