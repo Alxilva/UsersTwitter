@@ -18,8 +18,10 @@ public class Users{
 			System.out.println(linea);
 			System.out.println("En la posicion " + linea.indexOf(arroba) + " hay un nickname de usuario.");
 			int identificador = linea.indexOf(arroba);
-			int idenafteruser = substring(identificador).indexOf(espacio);
-			System.out.println("1. " + linea.substring(identificador,idenafteruser));
+			int idenafteruser = linea.indexOf(espacio, identificador);
+
+			System.out.println("1. " + linea.substring(identificador, idenafteruser));
+				
 			linea = archivo.readLine();
 			
 		}
